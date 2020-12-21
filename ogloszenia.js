@@ -1,4 +1,4 @@
-export og = [
+export var og = [
   {
     "title": "Tytuł",
     "comment": "Treść Treść Treść Treść Treść Treść Treść Treść Treść Treść Treść",
