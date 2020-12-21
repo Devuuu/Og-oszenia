@@ -1,6 +1,4 @@
-config = {}
-
-config.og = [
+export og = [
   {
     "title": "Tytuł",
     "comment": "Treść Treść Treść Treść Treść Treść Treść Treść Treść Treść Treść",
